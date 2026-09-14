@@ -9,6 +9,10 @@ The system uses a curated waste-management knowledge base, **Sentence Transforme
 > **Current implementation:** Local RAG using Sentence Transformers + FAISS with knowledge-based answer generation.
 > **Future/optional integration:** IBM watsonx.ai and IBM Granite can be connected when access is available.
 
+## 🌱 Live Demo
+
+🚀 **Try EcoSort AI:** [Open the live application](https://ecosort-ai-anshyy12.streamlit.app/)
+
 ---
 
 ## 🌱 Problem Statement
