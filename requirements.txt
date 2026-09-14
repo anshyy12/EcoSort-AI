@@ -3,5 +3,5 @@ pandas==2.3.2
 python-dotenv==1.1.1
 faiss-cpu==1.12.0
 sentence-transformers==5.1.1
-transformers==5.1.0
+transformers==4.57.1
 torch==2.8.0
