@@ -1,0 +1,212 @@
+[
+    {
+        "item": "Banana peel",
+        "category": "Organic/Biodegradable",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Banana peel\nAliases: banana skin;fruit peel\nCategory: Organic/Biodegradable\nMaterial: Food waste\nDisposal Action: Place in the appropriate wet/organic waste stream or compost where locally supported\nWhy: Banana peel is biodegradable organic waste\nSustainability Tip: Compost suitable food waste where locally supported\nSpecial Handling: Keep separate from dry recyclable waste\nConfidence Note: Local collection systems may differ\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Vegetable peels",
+        "category": "Organic/Biodegradable",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Vegetable peels\nAliases: vegetable waste;kitchen peels\nCategory: Organic/Biodegradable\nMaterial: Food waste\nDisposal Action: Place in the appropriate wet/organic waste stream or compost where locally supported\nWhy: Vegetable peels are biodegradable organic waste\nSustainability Tip: Reduce food waste and compost suitable organic material\nSpecial Handling: Keep separate from dry waste\nConfidence Note: Local collection systems may differ\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Food leftovers",
+        "category": "Organic/Biodegradable",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Food leftovers\nAliases: food scraps;cooked food waste\nCategory: Organic/Biodegradable\nMaterial: Food waste\nDisposal Action: Place in the appropriate wet/organic waste stream or compost where locally supported\nWhy: Food waste is biodegradable and should generally be kept separate from dry recyclables\nSustainability Tip: Reduce food waste and compost suitable leftovers\nSpecial Handling: Do not mix with recyclable dry waste\nConfidence Note: Local waste systems may specify separate wet-waste collection\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Paper",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Paper\nAliases: waste paper;office paper\nCategory: Recyclable/Dry Waste\nMaterial: Paper\nDisposal Action: Keep dry and place in the appropriate dry/recyclable waste stream\nWhy: Clean paper can generally enter paper-recycling streams\nSustainability Tip: Use both sides before recycling\nSpecial Handling: Keep away from wet waste\nConfidence Note: Acceptance depends on local collection systems\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Newspaper",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Newspaper\nAliases: old newspaper;newsprint\nCategory: Recyclable/Dry Waste\nMaterial: Paper\nDisposal Action: Keep dry and give to an appropriate recyclable-waste collection channel\nWhy: Newspaper is a paper material commonly recovered for recycling\nSustainability Tip: Reuse for suitable household purposes before recycling\nSpecial Handling: Keep away from wet waste\nConfidence Note: Local recyclers may have specific acceptance rules\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Cardboard",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Cardboard\nAliases: carton;corrugated cardboard;box\nCategory: Recyclable/Dry Waste\nMaterial: Paper/Cardboard\nDisposal Action: Flatten and keep dry for the appropriate recyclable-waste collection channel\nWhy: Clean cardboard can generally be recovered for recycling\nSustainability Tip: Reuse boxes when practical\nSpecial Handling: Remove excessive food contamination\nConfidence Note: Local collection systems may differ\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Plastic bottle",
+        "category": "Plastic Waste",
+        "source": "CPCB Consolidated Guidelines for Plastic Waste",
+        "source_url": "https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf",
+        "text": "Item: Plastic bottle\nAliases: PET bottle;water bottle;beverage bottle\nCategory: Plastic Waste\nMaterial: Plastic/PET\nDisposal Action: Empty and segregate for the appropriate local plastic-waste or recycling channel\nWhy: Plastic packaging can be collected and channelized through waste-management systems\nSustainability Tip: Reuse suitable containers when appropriate and recycle when accepted\nSpecial Handling: Do not burn plastic waste\nConfidence Note: Local plastic collection and recycling availability varies\nSource: CPCB Consolidated Guidelines for Plastic Waste\nSource URL: https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf"
+    },
+    {
+        "item": "Plastic container",
+        "category": "Plastic Waste",
+        "source": "CPCB Consolidated Guidelines for Plastic Waste",
+        "source_url": "https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf",
+        "text": "Item: Plastic container\nAliases: food container;plastic tub;plastic box\nCategory: Plastic Waste\nMaterial: Plastic\nDisposal Action: Empty and segregate for the appropriate local plastic-waste or recycling channel\nWhy: Plastic containers are plastic waste and may be recyclable depending on the local system\nSustainability Tip: Prefer reusable containers where practical\nSpecial Handling: Remove food residue where practical\nConfidence Note: Recycling acceptance varies by material and local system\nSource: CPCB Consolidated Guidelines for Plastic Waste\nSource URL: https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf"
+    },
+    {
+        "item": "Plastic bag",
+        "category": "Plastic Waste",
+        "source": "CPCB Consolidated Guidelines for Plastic Waste",
+        "source_url": "https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf",
+        "text": "Item: Plastic bag\nAliases: polythene bag;carry bag;plastic carry bag\nCategory: Plastic Waste\nMaterial: Plastic\nDisposal Action: Segregate and hand over through the appropriate local plastic-waste collection channel\nWhy: Plastic bags are plastic waste requiring appropriate collection and processing\nSustainability Tip: Prefer reusable bags to reduce single-use plastic\nSpecial Handling: Do not burn or litter plastic bags\nConfidence Note: Local collection and acceptance may differ\nSource: CPCB Consolidated Guidelines for Plastic Waste\nSource URL: https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf"
+    },
+    {
+        "item": "Plastic wrapper",
+        "category": "Plastic Waste",
+        "source": "CPCB Consolidated Guidelines for Plastic Waste",
+        "source_url": "https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf",
+        "text": "Item: Plastic wrapper\nAliases: snack wrapper;food wrapper;plastic packaging\nCategory: Plastic Waste\nMaterial: Plastic packaging\nDisposal Action: Segregate and hand over through an appropriate local plastic-waste channel\nWhy: Plastic packaging should be kept out of organic waste where collection systems support separate segregation\nSustainability Tip: Avoid unnecessary single-use packaging\nSpecial Handling: Do not burn plastic waste\nConfidence Note: Acceptance depends on local collection and processing facilities\nSource: CPCB Consolidated Guidelines for Plastic Waste\nSource URL: https://cpcb.nic.in/uploads/plasticwaste/consolidate_guidelines_for_disposal_of_pw.pdf"
+    },
+    {
+        "item": "Glass bottle",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Glass bottle\nAliases: glass jar;beverage glass bottle\nCategory: Recyclable/Dry Waste\nMaterial: Glass\nDisposal Action: Keep separate and hand over through the appropriate recyclable-waste collection channel\nWhy: Glass can be recovered and recycled through suitable systems\nSustainability Tip: Reuse intact containers where appropriate\nSpecial Handling: Handle broken glass carefully\nConfidence Note: Local collection systems may differ\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Broken glass",
+        "category": "Special Handling",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Broken glass\nAliases: shattered glass;glass pieces\nCategory: Special Handling\nMaterial: Glass\nDisposal Action: Keep separate from loose household waste and follow the local guidance for broken glass\nWhy: Broken glass can cause injury and should not be mixed carelessly with other waste\nSustainability Tip: Reuse or recycle intact glass when possible\nSpecial Handling: Handle carefully and keep contained\nConfidence Note: Follow local collection instructions for broken glass\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Aluminum can",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Aluminum can\nAliases: aluminium can;soft drink can;beverage can\nCategory: Recyclable/Dry Waste\nMaterial: Aluminum\nDisposal Action: Empty and place in the appropriate recyclable-waste collection channel\nWhy: Aluminum is a recyclable material when collected through suitable systems\nSustainability Tip: Recycle aluminum to conserve material resources\nSpecial Handling: Keep reasonably clean and dry\nConfidence Note: Local recyclers may have acceptance requirements\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Steel can",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Steel can\nAliases: tin can;metal can;food can\nCategory: Recyclable/Dry Waste\nMaterial: Steel/Metal\nDisposal Action: Empty and place in the appropriate recyclable-waste collection channel\nWhy: Metal cans can generally be recovered through recycling systems\nSustainability Tip: Recycle metal instead of discarding it with wet waste\nSpecial Handling: Remove food residue where practical\nConfidence Note: Local recyclers may have acceptance requirements\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Old mobile phone",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Old mobile phone\nAliases: smartphone;cell phone;mobile\nCategory: e-Waste\nMaterial: Electronic components\nDisposal Action: Use an authorized or registered e-waste collection or recycling channel applicable to the local area\nWhy: Electronic devices require specialized handling and appropriate e-waste channels\nSustainability Tip: Repair, reuse or refurbish functioning devices where practical\nSpecial Handling: May contain a battery; do not mix with ordinary waste\nConfidence Note: Local requirements and collection options may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Phone charger",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Phone charger\nAliases: mobile charger;USB charger;charging adapter\nCategory: e-Waste\nMaterial: Electrical/electronic components\nDisposal Action: Use an appropriate authorized or registered e-waste collection or recycling channel\nWhy: Electrical accessories are electronic waste when discarded\nSustainability Tip: Reuse working chargers with compatible equipment where appropriate\nSpecial Handling: Do not mix discarded electronic equipment with wet waste\nConfidence Note: Local e-waste collection options may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Computer",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Computer\nAliases: desktop computer;PC;personal computer\nCategory: e-Waste\nMaterial: Electronic equipment\nDisposal Action: Use an authorized or registered e-waste collection or recycling channel\nWhy: Computers are electrical and electronic equipment requiring appropriate e-waste management\nSustainability Tip: Repair, upgrade, reuse or refurbish where practical\nSpecial Handling: Protect personal data before handing over the device\nConfidence Note: Use authorized or registered channels; local options differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Keyboard",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Keyboard\nAliases: computer keyboard;USB keyboard\nCategory: e-Waste\nMaterial: Electronic components\nDisposal Action: Use an appropriate authorized or registered e-waste collection or recycling channel\nWhy: Discarded electronic accessories are handled as e-waste\nSustainability Tip: Reuse working accessories where practical\nSpecial Handling: Keep separate from wet waste\nConfidence Note: Local e-waste collection options may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Mouse",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Mouse\nAliases: computer mouse;USB mouse\nCategory: e-Waste\nMaterial: Electronic components\nDisposal Action: Use an appropriate authorized or registered e-waste collection or recycling channel\nWhy: Discarded electronic accessories require appropriate e-waste handling\nSustainability Tip: Reuse working accessories where practical\nSpecial Handling: Keep separate from wet waste\nConfidence Note: Local e-waste collection options may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Earphones",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Earphones\nAliases: headphones;wired earphones;earbuds\nCategory: e-Waste\nMaterial: Electronic components\nDisposal Action: Use an appropriate authorized or registered e-waste collection or recycling channel\nWhy: Electronic accessories can enter e-waste streams when discarded\nSustainability Tip: Reuse working accessories where practical\nSpecial Handling: Some wireless products may contain batteries\nConfidence Note: Local e-waste collection options may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Battery",
+        "category": "Battery Waste",
+        "source": "Battery Waste Management Rules 2022",
+        "source_url": "https://cpcb.nic.in/uploads/hwmd/Battery-WasteManagementRules-2022.pdf",
+        "text": "Item: Battery\nAliases: used battery;dry cell;household battery\nCategory: Battery Waste\nMaterial: Battery\nDisposal Action: Use an appropriate battery collection or recycling channel and do not mix with ordinary household waste\nWhy: Waste batteries are managed separately under battery-waste rules\nSustainability Tip: Use rechargeable batteries where appropriate and collect spent batteries for proper management\nSpecial Handling: Do not burn, crush or dismantle waste batteries\nConfidence Note: Follow current local collection and authorized-channel guidance\nSource: Battery Waste Management Rules 2022\nSource URL: https://cpcb.nic.in/uploads/hwmd/Battery-WasteManagementRules-2022.pdf"
+    },
+    {
+        "item": "Lithium-ion battery",
+        "category": "Battery Waste",
+        "source": "Battery Waste Management Rules 2022",
+        "source_url": "https://cpcb.nic.in/uploads/hwmd/Battery-WasteManagementRules-2022.pdf",
+        "text": "Item: Lithium-ion battery\nAliases: Li-ion battery;phone battery;rechargeable battery\nCategory: Battery Waste\nMaterial: Lithium-ion battery\nDisposal Action: Use an appropriate battery collection or recycling channel and follow local authorized collection guidance\nWhy: Lithium-ion batteries require appropriate waste-battery management\nSustainability Tip: Extend battery life and recycle spent batteries through appropriate channels\nSpecial Handling: Do not crush, puncture, burn or dismantle a waste battery\nConfidence Note: Follow current local and authorized collection guidance\nSource: Battery Waste Management Rules 2022\nSource URL: https://cpcb.nic.in/uploads/hwmd/Battery-WasteManagementRules-2022.pdf"
+    },
+    {
+        "item": "Fluorescent bulb",
+        "category": "Special Handling",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Fluorescent bulb\nAliases: CFL;fluorescent lamp;tube light\nCategory: Special Handling\nMaterial: Electrical/electronic components\nDisposal Action: Use an appropriate authorized collection or e-waste channel where supported locally\nWhy: Some lamps contain hazardous components and require careful handling\nSustainability Tip: Use energy-efficient lighting and dispose of spent lamps through appropriate channels\nSpecial Handling: Avoid breaking the lamp\nConfidence Note: Local collection requirements may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    },
+    {
+        "item": "Used cooking oil",
+        "category": "Special Handling",
+        "source": "CPCB waste-management guidance",
+        "source_url": "https://cpcb.nic.in/",
+        "text": "Item: Used cooking oil\nAliases: waste cooking oil;leftover frying oil\nCategory: Special Handling\nMaterial: Used cooking oil\nDisposal Action: Keep used cooking oil separate and follow the appropriate local collection or disposal guidance\nWhy: Pouring waste oil into drains can cause environmental and plumbing problems\nSustainability Tip: Reduce food waste and reuse cooking oil only when appropriate for food safety\nSpecial Handling: Do not pour used oil into drains\nConfidence Note: Local collection options may differ\nSource: CPCB waste-management guidance\nSource URL: https://cpcb.nic.in/"
+    },
+    {
+        "item": "Old clothes",
+        "category": "Reusable/Textile Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Old clothes\nAliases: worn clothes;textiles;used clothing\nCategory: Reusable/Textile Waste\nMaterial: Textile\nDisposal Action: Donate, reuse, repair or use the appropriate local textile or waste-collection channel\nWhy: Textiles can often be reused or recovered instead of immediately discarded\nSustainability Tip: Repair and reuse clothing where practical\nSpecial Handling: Keep donated items reasonably clean and dry\nConfidence Note: Local textile collection options vary\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Shoes",
+        "category": "Reusable/Textile Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Shoes\nAliases: old shoes;footwear;used footwear\nCategory: Reusable/Textile Waste\nMaterial: Textile/Rubber/Leather\nDisposal Action: Donate, reuse or use an appropriate local collection channel where available\nWhy: Usable footwear can often be reused rather than discarded\nSustainability Tip: Repair and reuse footwear where practical\nSpecial Handling: Separate heavily damaged items according to local guidance\nConfidence Note: Local collection options vary\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Wooden furniture",
+        "category": "Bulky Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Wooden furniture\nAliases: old furniture;wooden chair;wooden table\nCategory: Bulky Waste\nMaterial: Wood\nDisposal Action: Reuse, repair or contact the local authority or appropriate collection service for bulky waste\nWhy: Furniture can often be reused or repaired and should not be mixed with ordinary wet waste\nSustainability Tip: Repair, refurbish or donate usable furniture\nSpecial Handling: Large items may require separate collection\nConfidence Note: Follow local bulky-waste collection arrangements\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Metal utensils",
+        "category": "Recyclable/Dry Waste",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Metal utensils\nAliases: steel utensils;aluminum utensils;old cookware\nCategory: Recyclable/Dry Waste\nMaterial: Metal\nDisposal Action: Reuse where possible or give to an appropriate metal-recycling collection channel\nWhy: Metal can generally be recovered through suitable recycling systems\nSustainability Tip: Reuse or repair utensils where practical\nSpecial Handling: Keep separate from wet waste\nConfidence Note: Local recyclers may have acceptance requirements\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Ceramic plate",
+        "category": "Special Handling",
+        "source": "CPCB Solid Waste Management Rules guidance",
+        "source_url": "https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf",
+        "text": "Item: Ceramic plate\nAliases: broken plate;ceramic dish;ceramic cup\nCategory: Special Handling\nMaterial: Ceramic\nDisposal Action: Reuse intact items where practical and follow local guidance for broken ceramic waste\nWhy: Ceramic is different from container glass and may not be accepted in glass recycling\nSustainability Tip: Reuse intact ceramics or donate usable items\nSpecial Handling: Handle broken pieces carefully\nConfidence Note: Do not assume ceramic belongs in glass recycling\nSource: CPCB Solid Waste Management Rules guidance\nSource URL: https://cpcb.nic.in/uploads/MSW/Salient_features_SWM_Rules.pdf"
+    },
+    {
+        "item": "Electronic accessories",
+        "category": "e-Waste",
+        "source": "E-Waste Management Rules 2022",
+        "source_url": "https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf",
+        "text": "Item: Electronic accessories\nAliases: USB cable;computer cable;electronic accessory\nCategory: e-Waste\nMaterial: Electrical/electronic components\nDisposal Action: Use an appropriate authorized or registered e-waste collection or recycling channel\nWhy: Discarded electrical and electronic accessories can enter e-waste management systems\nSustainability Tip: Reuse compatible accessories where practical\nSpecial Handling: Keep separate from wet waste\nConfidence Note: Local e-waste collection options may differ\nSource: E-Waste Management Rules 2022\nSource URL: https://moef.gov.in/uploads/2022/11/E-Waste-Management-Rules-2022.pdf"
+    }
+]
